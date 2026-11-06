@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prodentim-4n7x.onrender.com/sitemap.xml
