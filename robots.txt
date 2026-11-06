@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dentalprodentim-reviews.com/sitemap.xml
